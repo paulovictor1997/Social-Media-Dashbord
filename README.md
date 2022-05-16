@@ -11,4 +11,4 @@
 
 - Front End Mentor Profile : [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
 
-- Live Solution : []()
+- Live Solution : [https://paulovictor1997.github.io/Social-Media-Dashbord/](https://paulovictor1997.github.io/Social-Media-Dashbord/)
